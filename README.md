@@ -20,7 +20,7 @@
 
 ## Analysis 
 
-The purpose of this project was to create a program that took the ticker starting and ending prices of stocks for the years 2017 abd 2017. I created buttons to clear the worksheet and to run the stocks analysis. I, also created a message box to show the run-time of the program to show it's accuracy. 
+The purpose of this project was to create a program that took the ticker starting and ending prices of stocks for the years 2017 abd 2017. I created buttons to clear the worksheet and to run the stocks analysis. I, also created a message box to show the run-time of the program to show it's accuracy. The advantages of refactoring the code is increasing the speed of calculations (I have the original code listed in Module 6), but the challenges were getting the For-Loop's to correctly run and it was a long process of debugging. Eventually the code worked and I was able to analyze the data: 
     
 Looking at the data for 2017
     
@@ -30,4 +30,4 @@ Looking at the data for 2018
 
 ![2018](Resources/VBA_Challenge_2018.png)
    
-Here, we see that the stocks **ENPH** and **RUN** are both gaining a positive return for each year. The stock **TERP** had a negative return both years and the rest of the stocks were profitable in 2017, but not in 2018. Analyzing this data, I would say that **ENPH** and **RUN** are more stable investments to invest in. 
+Here, we see that the stocks **ENPH** and **RUN** are both gaining a positive return for each year. The stock **TERP** had a negative return both years and the rest of the stocks were profitable in 2017, but not in 2018. Analyzing this data, I would say that **ENPH** and **RUN** are more stable stocks to invest in. 
